@@ -13,26 +13,26 @@ Tabela: `phishing_data`
 
 Principais colunas:
 
-url_length
-n_dots
-n_hypens
-n_underline
-n_slash
-n_questionmark
-n_equal
-n_at
-n_and
-n_exclamation
-n_space
-n_tilde
-n_comma
-n_plus
-n_asterisk
-n_hastag
-n_dollar
-n_percent
-n_redirection
-phishing (0 para legítima, 1 para phishing)
+- url_length  
+- n_dots  
+- n_hypens  
+- n_underline  
+- n_slash  
+- n_questionmark  
+- n_equal  
+- n_at  
+- n_and  
+- n_exclamation  
+- n_space  
+- n_tilde  
+- n_comma  
+- n_plus  
+- n_asterisk  
+- n_hastag  
+- n_dollar  
+- n_percent  
+- n_redirection  
+- phishing (0 para legítima, 1 para phishing)
 
 
 Perguntas do Projeto:

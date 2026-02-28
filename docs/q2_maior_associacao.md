@@ -3,6 +3,7 @@
 
 Código usado:
 
+```sql
 SELECT 
     phishing,
     AVG(url_length) AS media_url_length,
@@ -15,7 +16,7 @@ SELECT
     AVG(n_redirection) AS media_n_redirection
 FROM phishing_data
 GROUP BY phishing;
-
+```
 
 Resultado:
 

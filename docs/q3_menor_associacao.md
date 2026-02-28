@@ -16,6 +16,9 @@ SELECT
 FROM phishing_data
 GROUP BY phishing;
 ```
+
+Usamos o mesmo código da questão 2.
+
 As variáveis com menor diferença foram:
 
 - n_dots

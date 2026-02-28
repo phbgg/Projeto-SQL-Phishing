@@ -2,9 +2,10 @@
 
 Código usado:
 
-
+```sql
 SELECT *
 FROM phishing_data;
+```
 
 Resultado:
 

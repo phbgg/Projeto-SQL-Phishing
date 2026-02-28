@@ -10,6 +10,6 @@ Resultado:
 
 <img width="1261" height="910" alt="Image" src="https://github.com/user-attachments/assets/852efbeb-f4e3-4f03-884b-4aa219fa43be" />
 
-Caso seja apenas para visualização das colunas é recomendado usar LIMIT 10;
+Caso seja apenas para visualização das colunas é recomendado usar LIMIT, limitando o número de linhas e facilitando a interpretação.
 
 

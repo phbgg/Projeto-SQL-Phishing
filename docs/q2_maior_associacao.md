@@ -26,5 +26,6 @@ Podemos analisar que as variáveis com maior diferença da média são:
 - url_length: Uma diferença de aproximadamente 43 caracteres entre as médias.
 - n_slash: Uma diferença de aproximadamente 2.4 ocorrências entre as médias.
 - n_equal: Também apresenta aumento relevante entre as médias.
+- n_hypens: Indica maior presença de hífens em URLs phishing.
 
-Assim podemos associar mais as variáveis url_length, n_slash, n_equal, com a variável phishing.
+Assim podemos associar mais as variáveis url_length, n_slash, n_equal e n_hypens com a variável phishing.
